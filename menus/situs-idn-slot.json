@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle situs-idn-slot",
+        "command": "situs-idn-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "situs-idn-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "situs-idn-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

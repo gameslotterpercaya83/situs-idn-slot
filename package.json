@@ -1,0 +1,18 @@
+{
+  "name": "situs-idn-slot",
+  "main": "./lib/situs-idn-slot",
+  "version": "1.0.0",
+  "description": "Game Online Cara Kerja Situs Idn Slot 100 Perak",
+  "keywords": ["habanero slot","games slot gampang menang","microgaming","situs judi slot online","slot online","agen slot terbaik","slot habanero","slot online cq9","slot habanero","situs judi slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "situs-idn-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya83/situs-idn-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
